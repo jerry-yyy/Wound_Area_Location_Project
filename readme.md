@@ -26,8 +26,8 @@ This is a university course project which implements machine learning models (Ra
 
 1. Clone the repository
 ```bash
-git clone https://github.com/jerryyyy/Wound_area_location_project.git
-cd Wound_area_location_project
+git clone https://github.com/jerryyyy/Wound_Area_Location_Project.git
+cd Wound_Area_Location_Project
 ```
 
 3. Run training
